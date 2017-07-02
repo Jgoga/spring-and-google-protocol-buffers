@@ -2,7 +2,7 @@
 
 
 
-Spring Framework 4.1 introduced new support for [Google Protocol Buffers](https://developers.google.com/protocol-buffers/). From the website:
+Spring Framework 4.1 introduced new support for [Google Protocol Buffers](https://developers.google.com/protocol-buffers/) and [Original Docs to use in Spring](https://spring.io/blog/2015/03/22/using-google-protocol-buffers-with-spring-mvc-based-rest-services). From the website:
 
 > Protocol buffers are Google's language-neutral, platform-neutral, extensible mechanism for serializing structured data – think XML, but smaller, faster, and simpler. You define how you want your data to be structured once, then you can use special generated source code to easily write and read your structured data to and from a variety of data streams and using a variety of languages...
 
